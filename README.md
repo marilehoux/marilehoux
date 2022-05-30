@@ -5,8 +5,7 @@
 - 📫 How to reach me? my ID is marilehoux or Mari Lehoux
 https://marilehoux.github.io/
 
-à venir:
-https://vue-39ft28.stackblitz.io
+
 
 <!---
 marilehoux/marilehoux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
