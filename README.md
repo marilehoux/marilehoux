@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marilehoux
-- 👀 Frontend developper
-- 📫 How to reach me? my ID is marilehoux or Mari Lehoux
-https://marilehoux.github.io/
+- 👋 @marilehoux
+- 👀 web developper , product builder
+- riding 🚲
+- https://marilehoux.github.io/
 
 
 
