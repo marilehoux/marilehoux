@@ -1,7 +1,7 @@
 - 👋 @marilehoux
 - 👀 web developper , product builder
 - often riding 🚲
-- https://marilehoux.github.io/
+
 
 
 
